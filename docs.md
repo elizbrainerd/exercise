@@ -1,4 +1,4 @@
-#Doc Title
+# Doc Title
 
 This documentation describes how to use the vNext Karel automatic toothbrush.
 
